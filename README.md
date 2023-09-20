@@ -53,7 +53,7 @@ While this project offers a robust tool for predicting stock price movements, it
 Contributions to this project are encouraged and welcomed. Whether it's bug fixes, feature enhancements, or new ideas, feel free to contribute by creating a pull request or opening an issue.
 
 <b><h1>License</h1></b>
-This project is licensed under the MIT License. For detailed information, Please Visit <a href="https://www.w3schools.com/html/" title="Go to License File"><b>MIT License</b></a>.
+This project is licensed under the MIT License. For detailed information, Please Visit <a href="https://github.com/ahmedkhan58555/Stock-Price-Prediction_AI-Project/commit/d903a06f14e717b9581d35346841ab0e7063f776" title="Go to License File"><b>MIT License</b></a>.
 
 <b><h1>Acknowledgments</h1></b>
 We extend our gratitude to the open-source community and the developers of LSTM and data analysis libraries for their invaluable contributions to this project.
